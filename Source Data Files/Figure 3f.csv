@@ -1,0 +1,395 @@
+,animal,session,phase,condition,FR modulation
+0,BS_119,BS_119_4_opto_AC.pickle,2,opto,1.426282051282051
+1,BS_119,BS_119_5_opto_AC.pickle,2,opto,6.858585858585857
+2,BS_119,BS_119_5_opto_AC.pickle,2,opto,5.067567567567569
+3,BS_119,BS_119_5_opto_AC.pickle,2,opto,4.449494949494948
+4,BS_119,BS_119_5_opto_AC.pickle,2,opto,2.1565656565656566
+5,BS_123,BS_123_4_opto_AC.pickle,2,opto,1.9940476190476188
+6,BS_123,BS_123_4_opto_AC.pickle,2,opto,4.0932914046121605
+7,BS_123,BS_123_4_opto_AC.pickle,2,opto,46.14211309523808
+8,BS_123,BS_123_5_opto_AC.pickle,2,opto,0.9967948717948719
+9,BS_123,BS_123_5_opto_AC.pickle,2,opto,2.265708200212996
+10,BS_123,BS_123_5_opto_AC.pickle,2,opto,3.2188498402555927
+11,BS_123,BS_123_5_opto_AC.pickle,2,opto,0.9653465346534652
+12,BS_123,BS_123_5_opto_AC.pickle,2,opto,4.448924731182796
+13,BS_123,BS_123_5_opto_AC.pickle,2,opto,0.725225225225225
+14,BS_123,BS_123_5_opto_AC.pickle,2,opto,2.1467391304347836
+15,BS_123,BS_123_5_opto_AC.pickle,2,opto,3.503727369542064
+16,BS_123,BS_123_5_opto_AC.pickle,2,opto,0.23099415204678342
+17,BS_123,BS_123_5_opto_AC.pickle,2,opto,1.931547619047618
+18,BS_123,BS_123_5_opto_AC.pickle,2,opto,0.49935149156939057
+19,BS_123,BS_123_5_opto_AC.pickle,2,opto,0.9775086505190314
+20,BS_123,BS_123_5_opto_AC.pickle,2,opto,0.6358225108225101
+21,BS_123,BS_123_5_opto_AC.pickle,2,opto,1.3832658569500682
+22,BS_123,BS_123_5_opto_AC.pickle,2,opto,1.5572033898305084
+23,BS_123,BS_123_5_opto_AC.pickle,2,opto,2.417491749174915
+24,BS_123,BS_123_5_opto_AC.pickle,2,opto,0.3993610223642173
+25,BS_123,BS_123_5_opto_AC.pickle,2,opto,16.35912698412698
+26,BS_123,BS_123_5_opto_AC.pickle,2,opto,6.22759856630824
+27,BS_123,BS_123_5_opto_AC.pickle,2,opto,9.54739084132056
+28,BS_123,BS_123_5_opto_AC.pickle,2,opto,4.347710330138444
+29,BS_123,BS_123_5_opto_AC.pickle,2,opto,2.3487442922374426
+30,BS_128,BS_128_6_opto_AC.pickle,2,opto,16.939252336448597
+31,BS_128,BS_128_6_opto_AC.pickle,2,opto,1.2461059190031147
+32,BS_128,BS_128_6_opto_AC.pickle,2,opto,2.7882599580712784
+33,BS_128,BS_128_6_opto_AC.pickle,2,opto,0.9288747346072189
+34,BS_128,BS_128_6_opto_AC.pickle,2,opto,12.503894080996881
+35,BS_128,BS_128_6_opto_AC.pickle,2,opto,3.524143302180686
+36,BS_128,BS_128_6_opto_AC.pickle,2,opto,4.694092827004221
+37,BS_128,BS_128_6_opto_AC.pickle,2,opto,2.136075949367089
+38,BS_128,BS_128_6_opto_AC.pickle,2,opto,1.3979750778816198
+39,BS_128,BS_128_6_opto_AC.pickle,2,opto,5.848909657320872
+40,BS_128,BS_128_6_opto_AC.pickle,2,opto,0.7705192629815746
+41,BS_128,BS_128_6_opto_AC.pickle,2,opto,2.2897196261682264
+42,BS_128,BS_128_6_opto_AC.pickle,2,opto,8.830645161290322
+43,BS_128,BS_128_6_opto_AC.pickle,2,opto,82.95560747663555
+44,BS_128,BS_128_6_opto_AC.pickle,2,opto,3.3683800623052966
+45,BS_128,BS_128_6_opto_AC.pickle,2,opto,6.903973509933775
+46,BS_128,BS_128_6_opto_AC.pickle,2,opto,0.8333333333333336
+47,BS_128,BS_128_6_opto_AC.pickle,2,opto,7.9633956386292795
+48,BS_128,BS_128_6_opto_AC.pickle,2,opto,1.8029595015576332
+49,BS_128,BS_128_6_opto_AC.pickle,2,opto,2.8955696202531658
+50,BS_128,BS_128_6_opto_AC.pickle,2,opto,7.838541666666666
+51,BS_128,BS_128_6_opto_AC.pickle,2,opto,94.04595015576326
+52,BS_128,BS_128_6_opto_AC.pickle,2,opto,9.3613707165109
+53,BS_128,BS_128_6_opto_AC.pickle,2,opto,13.03348909657321
+54,BS_128,BS_128_6_opto_AC.pickle,2,opto,6.701713395638631
+55,BS_128,BS_128_7_opto_AC.pickle,2,opto,2.7024922118380057
+56,BS_128,BS_128_7_opto_AC.pickle,2,opto,4.419781931464176
+57,BS_128,BS_128_7_opto_AC.pickle,2,opto,29.55996884735201
+58,BS_128,BS_128_7_opto_AC.pickle,2,opto,0.9789156626506024
+59,BS_128,BS_128_7_opto_AC.pickle,2,opto,1.530373831775701
+60,BS_128,BS_128_7_opto_AC.pickle,2,opto,2.985395189003436
+61,BS_128,BS_128_7_opto_AC.pickle,2,opto,2.5087260034904024
+62,BS_128,BS_128_7_opto_AC.pickle,2,opto,25.80607476635513
+63,BS_128,BS_128_7_opto_AC.pickle,2,opto,6.787439613526569
+64,BS_128,BS_128_7_opto_AC.pickle,2,opto,21.327881619937695
+65,BS_128,BS_128_7_opto_AC.pickle,2,opto,2.7803738317756994
+66,BS_128,BS_128_7_opto_AC.pickle,2,opto,4.08
+67,BS_128,BS_128_7_opto_AC.pickle,2,opto,3.4230769230769225
+68,BS_128,BS_128_7_opto_AC.pickle,2,opto,8.717564870259478
+69,BS_128,BS_128_7_opto_AC.pickle,2,opto,5.159657320872276
+70,BS_128,BS_128_7_opto_AC.pickle,2,opto,1.2971014492753623
+71,BS_128,BS_128_7_opto_AC.pickle,2,opto,12.379283489096574
+72,BS_128,BS_128_7_opto_AC.pickle,2,opto,1.6854636591478693
+73,BS_128,BS_128_7_opto_AC.pickle,2,opto,2.036340852130326
+74,BS_128,BS_128_7_opto_AC.pickle,2,opto,0.40123456790123463
+75,BS_128,BS_128_7_opto_AC.pickle,2,opto,3.9213395638629263
+76,BS_128,BS_128_7_opto_AC.pickle,2,opto,1.725865209471767
+77,BS_131,BS_131_4_opto_AC.pickle,2,opto,2.3779193205944793
+78,BS_131,BS_131_4_opto_AC.pickle,2,opto,4.699842022116903
+79,BS_131,BS_131_4_opto_AC.pickle,2,opto,27.023809523809522
+80,BS_131,BS_131_4_opto_AC.pickle,2,opto,2.148648648648649
+81,BS_131,BS_131_4_opto_AC.pickle,2,opto,3.412322274881518
+82,BS_131,BS_131_4_opto_AC.pickle,2,opto,8.373655913978498
+83,BS_131,BS_131_4_opto_AC.pickle,2,opto,39.87341772151898
+84,BS_131,BS_131_4_opto_AC.pickle,2,opto,5.885416666666666
+85,BS_131,BS_131_4_opto_AC.pickle,2,opto,6.3120567375886525
+86,BS_131,BS_131_4_opto_AC.pickle,2,opto,1.0945273631840795
+87,BS_131,BS_131_5_opto_AC.pickle,2,opto,38.18415637860082
+88,BS_131,BS_131_5_opto_AC.pickle,2,opto,16.657754010695186
+89,BS_131,BS_131_5_opto_AC.pickle,2,opto,32.29292929292929
+90,BS_131,BS_131_5_opto_AC.pickle,2,opto,22.43197278911565
+91,BS_131,BS_131_5_opto_AC.pickle,2,opto,2.712215320910973
+92,BS_131,BS_131_5_opto_AC.pickle,2,opto,2.306201550387598
+93,BS_131,BS_131_5_opto_AC.pickle,2,opto,1.468926553672316
+94,BS_131,BS_131_5_opto_AC.pickle,2,opto,2.477718360071301
+95,BS_131,BS_131_5_opto_AC.pickle,2,opto,5.815347721822542
+96,BS_131,BS_131_5_opto_AC.pickle,2,opto,5.0100401606425695
+97,BS_86,BS_86_4_opto_AC.pickle,2,opto,0.8233532934131736
+98,BS_86,BS_86_4_opto_AC.pickle,2,opto,0.6037924151696612
+99,BS_86,BS_86_4_opto_AC.pickle,2,opto,1.8013972055888217
+100,BS_86,BS_86_4_opto_AC.pickle,2,opto,2.8942115768463057
+101,BS_86,BS_86_4_opto_AC.pickle,2,opto,1.441102756892231
+102,BS_86,BS_86_4_opto_AC.pickle,2,opto,2.566371681415929
+103,BS_86,BS_86_4_opto_AC.pickle,2,opto,3.160714285714286
+104,BS_86,BS_86_4_opto_AC.pickle,2,opto,4.555888223552895
+105,BS_86,BS_86_4_opto_AC.pickle,2,opto,2.7623456790123466
+106,BS_86,BS_86_4_opto_AC.pickle,2,opto,4.030172413793101
+107,BS_86,BS_86_4_opto_AC.pickle,2,opto,6.239316239316241
+108,BS_86,BS_86_4_opto_AC.pickle,2,opto,1.5618762475049905
+109,BS_86,BS_86_4_opto_AC.pickle,2,opto,1.8213572854291415
+110,BS_86,BS_86_4_opto_AC.pickle,2,opto,2.5449101796407194
+111,BS_86,BS_86_5_opto_AC.pickle,2,opto,3.1060606060606064
+112,BS_86,BS_86_5_opto_AC.pickle,2,opto,0.4886363636363637
+113,BS_86,BS_86_5_opto_AC.pickle,2,opto,4.76190476190476
+114,BS_86,BS_86_5_opto_AC.pickle,2,opto,0.6012658227848101
+115,BS_86,BS_86_5_opto_AC.pickle,2,opto,1.310606060606061
+116,BS_86,BS_86_5_opto_AC.pickle,2,opto,0.9204545454545457
+117,BS_86,BS_86_5_opto_AC.pickle,2,opto,1.68939393939394
+118,BS_86,BS_86_5_opto_AC.pickle,2,opto,1.4431818181818188
+119,BS_86,BS_86_5_opto_AC.pickle,2,opto,2.666666666666666
+120,BS_86,BS_86_5_opto_AC.pickle,2,opto,2.8446969696969697
+121,BS_86,BS_86_5_opto_AC.pickle,2,opto,1.1448220064724923
+122,BS_86,BS_86_5_opto_AC.pickle,2,opto,4.044811320754718
+123,BS_86,BS_86_5_opto_AC.pickle,2,opto,1.2174940898345155
+124,BS_86,BS_86_5_opto_AC.pickle,2,opto,3.4090909090909105
+125,BS_86,BS_86_5_opto_AC.pickle,2,opto,2.1060606060606055
+126,BS_86,BS_86_5_opto_AC.pickle,2,opto,2.9115226337448545
+127,BS_86,BS_86_5_opto_AC.pickle,2,opto,0.7323232323232326
+128,BS_86,BS_86_5_opto_AC.pickle,2,opto,1.2847222222222223
+129,BS_86,BS_86_5_opto_AC.pickle,2,opto,2.6523809523809536
+130,BS_86,BS_86_5_opto_AC.pickle,2,opto,0.6812169312169313
+131,BS_86,BS_86_5_opto_AC.pickle,2,opto,4.062499999999999
+132,BS_86,BS_86_5_opto_AC.pickle,2,opto,1.4912280701754381
+133,BS_86,BS_86_5_opto_AC.pickle,2,opto,4.31924882629108
+134,BS_86,BS_86_5_opto_AC.pickle,2,opto,1.545454545454545
+135,BS_86,BS_86_5_opto_AC.pickle,2,opto,1.3717948717948718
+136,BS_86,BS_86_5_opto_AC.pickle,2,opto,1.3267543859649125
+137,BS_86,BS_86_5_opto_AC.pickle,2,opto,0.17932489451476796
+138,BS_86,BS_86_5_opto_AC.pickle,2,opto,5.140151515151514
+139,BS_86,BS_86_5_opto_AC.pickle,2,opto,4.526515151515149
+140,BS_42,BS_42_6_AC.pickle,post late,control,0.9263477600607436
+141,BS_42,BS_42_6_AC.pickle,post late,control,3.975757575757578
+142,BS_42,BS_42_6_AC.pickle,post late,control,6.069651741293537
+143,BS_42,BS_42_6_AC.pickle,post late,control,0.9794628751974719
+144,BS_42,BS_42_6_AC.pickle,post late,control,4.0
+145,BS_42,BS_42_6_AC.pickle,post late,control,7.207977207977202
+146,BS_42,BS_42_6_AC.pickle,post late,control,7.677777777777777
+147,BS_42,BS_42_6_AC.pickle,post late,control,13.411111111111072
+148,BS_42,BS_42_6_AC.pickle,post late,control,1.3502109704641365
+149,BS_42,BS_42_6_AC.pickle,post late,control,3.92452830188679
+150,BS_42,BS_42_6_AC.pickle,post late,control,6.8777777777777915
+151,BS_42,BS_42_6_AC.pickle,post late,control,5.702527924750152
+152,BS_42,BS_42_6_AC.pickle,post late,control,26.352324819908343
+153,BS_42,BS_42_6_AC.pickle,post late,control,0.7524059492563433
+154,BS_42,BS_42_6_AC.pickle,post late,control,1.9999999999999996
+155,BS_42,BS_42_6_AC.pickle,post late,control,2.5860023724792405
+156,BS_42,BS_42_6_AC.pickle,post late,control,5.076923076923073
+157,BS_42,BS_42_6_AC.pickle,post late,control,0.36697247706422026
+158,BS_42,BS_42_6_AC.pickle,post late,control,3.259259259259259
+159,BS_42,BS_42_6_AC.pickle,post late,control,2.925170068027214
+160,BS_42,BS_42_6_AC.pickle,post late,control,1.5342465753424661
+161,BS_42,BS_42_6_AC.pickle,post late,control,0.7333333333333333
+162,BS_42,BS_42_6_AC.pickle,post late,control,0.26402640264026406
+163,BS_42,BS_42_6_AC.pickle,post late,control,1.275362318840581
+164,BS_42,BS_42_6_AC.pickle,post late,control,0.2842377260981912
+165,BS_42,BS_42_6_AC.pickle,post late,control,4.96706192358367
+166,BS_42,BS_42_7_AC.pickle,post late,control,0.366666666666666
+167,BS_42,BS_42_7_AC.pickle,post late,control,1.2387387387387372
+168,BS_42,BS_42_7_AC.pickle,post late,control,12.933333333333316
+169,BS_42,BS_42_7_AC.pickle,post late,control,0.5555555555555555
+170,BS_42,BS_42_7_AC.pickle,post late,control,3.076923076923086
+171,BS_42,BS_42_7_AC.pickle,post late,control,0.7555555555555565
+172,BS_42,BS_42_7_AC.pickle,post late,control,6.143410852713168
+173,BS_42,BS_42_7_AC.pickle,post late,control,3.4888888888888885
+174,BS_42,BS_42_7_AC.pickle,post late,control,5.966666666666689
+175,BS_42,BS_42_7_AC.pickle,post late,control,0.4066543438077632
+176,BS_42,BS_42_7_AC.pickle,post late,control,0.9000000000000008
+177,BS_42,BS_42_7_AC.pickle,post late,control,4.544444444444451
+178,BS_42,BS_42_7_AC.pickle,post late,control,0.8937198067632863
+179,BS_42,BS_42_7_AC.pickle,post late,control,0.8350730688935278
+180,BS_42,BS_42_7_AC.pickle,post late,control,1.9835680751173703
+181,BS_42,BS_42_7_AC.pickle,post late,control,0.5000000000000002
+182,BS_42,BS_42_7_AC.pickle,post late,control,1.0555555555555551
+183,BS_42,BS_42_7_AC.pickle,post late,control,0.7333333333333332
+184,BS_42,BS_42_7_AC.pickle,post late,control,1.4000000000000012
+185,BS_42,BS_42_7_AC.pickle,post late,control,0.8333333333333334
+186,BS_42,BS_42_7_AC.pickle,post late,control,1.1999999999999995
+187,BS_42,BS_42_7_AC.pickle,post late,control,2.2098765432098806
+188,BS_42,BS_42_7_AC.pickle,post late,control,3.3999999999999977
+189,BS_42,BS_42_7_AC.pickle,post late,control,0.6790123456790125
+190,BS_42,BS_42_7_AC.pickle,post late,control,0.8444444444444444
+191,BS_42,BS_42_7_AC.pickle,post late,control,1.2345679012345678
+192,BS_42,BS_42_7_AC.pickle,post late,control,3.9080459770114935
+193,BS_42,BS_42_7_AC.pickle,post late,control,32.87449392712553
+194,BS_42,BS_42_7_AC.pickle,post late,control,0.3589743589743591
+195,BS_42,BS_42_7_AC.pickle,post late,control,0.7888888888888897
+196,BS_42,BS_42_7_AC.pickle,post late,control,14.862385321100914
+197,BS_56,BS_56_7_AC.pickle,N/A,control,4.208835341365463
+198,BS_56,BS_56_7_AC.pickle,N/A,control,1.2208835341365474
+199,BS_70,BS_70_10_AC.pickle,post late,control,24.944444444444464
+200,BS_70,BS_70_10_AC.pickle,post late,control,0.7680491551459314
+201,BS_70,BS_70_10_AC.pickle,post late,control,2.642089093701996
+202,BS_70,BS_70_10_AC.pickle,post late,control,1.1674347158218108
+203,BS_70,BS_70_10_AC.pickle,post late,control,0.6912442396313367
+204,BS_70,BS_70_10_AC.pickle,post late,control,1.3210445468510001
+205,BS_70,BS_70_10_AC.pickle,post late,control,1.3202933985330085
+206,BS_70,BS_70_10_AC.pickle,post late,control,1.488888888888887
+207,BS_70,BS_70_10_AC.pickle,post late,control,2.580645161290321
+208,BS_70,BS_70_11_AC.pickle,post late,control,2.55208333333333
+209,BS_70,BS_70_11_AC.pickle,post late,control,0.9895833333333334
+210,BS_70,BS_70_11_AC.pickle,post late,control,1.3888888888888886
+211,BS_70,BS_70_11_AC.pickle,post late,control,4.53124999999999
+212,BS_70,BS_70_11_AC.pickle,post late,control,0.8536585365853661
+213,BS_70,BS_70_11_AC.pickle,post late,control,3.802083333333332
+214,BS_70,BS_70_11_AC.pickle,post late,control,2.1874999999999996
+215,BS_70,BS_70_11_AC.pickle,post late,control,0.7638888888888906
+216,BS_70,BS_70_11_AC.pickle,post late,control,0.8159722222222209
+217,BS_70,BS_70_12_AC.pickle,post late,control,1.5359477124183
+218,BS_70,BS_70_12_AC.pickle,post late,control,3.1243781094527345
+219,BS_70,BS_70_12_AC.pickle,post late,control,0.9309309309309319
+220,BS_70,BS_70_12_AC.pickle,post late,control,2.0080321285140563
+221,BS_70,BS_70_12_AC.pickle,post late,control,2.5120772946859904
+222,BS_70,BS_70_7_AC.pickle,post late,control,1.1751412429378538
+223,BS_70,BS_70_7_AC.pickle,post late,control,11.711711711711708
+224,BS_70,BS_70_7_AC.pickle,post late,control,7.631578947368415
+225,BS_70,BS_70_7_AC.pickle,post late,control,4.952380952380951
+226,BS_70,BS_70_7_AC.pickle,post late,control,1.1825192802056552
+227,BS_70,BS_70_7_AC.pickle,post late,control,8.324125230202576
+228,BS_70,BS_70_7_AC.pickle,post late,control,7.969151670951159
+229,BS_70,BS_70_7_AC.pickle,post late,control,2.4967824967824974
+230,BS_70,BS_70_8_AC.pickle,post late,control,3.039014373716636
+231,BS_70,BS_70_8_AC.pickle,post late,control,1.9134396355353085
+232,BS_70,BS_70_8_AC.pickle,post late,control,1.3689253935660464
+233,BS_70,BS_70_8_AC.pickle,post late,control,3.737166324435318
+234,BS_70,BS_70_8_AC.pickle,post late,control,13.699788583509507
+235,BS_70,BS_70_8_AC.pickle,post late,control,0.7255304585900076
+236,BS_70,BS_70_8_AC.pickle,post late,control,1.5958240119313933
+237,BS_70,BS_70_8_AC.pickle,post late,control,1.4373716632443516
+238,BS_70,BS_70_8_AC.pickle,post late,control,0.6511627906976741
+239,BS_70,BS_70_8_AC.pickle,post late,control,2.2771535580524342
+240,BS_70,BS_70_8_AC.pickle,post late,control,1.6837782340862437
+241,BS_70,BS_70_8_AC.pickle,post late,control,2.4914442162902133
+242,BS_70,BS_70_8_AC.pickle,post late,control,10.363984674329505
+243,BS_70,BS_70_8_AC.pickle,post late,control,0.5065023956194391
+244,BS_70,BS_70_8_AC.pickle,post late,control,0.3361344537815123
+245,BS_70,BS_70_9_AC.pickle,post late,control,0.6381534283774596
+246,BS_70,BS_70_9_AC.pickle,post late,control,2.565400843881853
+247,BS_70,BS_70_9_AC.pickle,post late,control,1.0997963340122203
+248,BS_70,BS_70_9_AC.pickle,post late,control,1.439239646978954
+249,BS_70,BS_70_9_AC.pickle,post late,control,1.068702290076336
+250,BS_70,BS_70_9_AC.pickle,post late,control,2.1076233183856505
+251,BS_70,BS_70_9_AC.pickle,post late,control,0.7246376811594196
+252,BS_70,BS_70_9_AC.pickle,post late,control,4.317718940936871
+253,BS_70,BS_70_9_AC.pickle,post late,control,1.9959266802444025
+254,BS_70,BS_70_9_AC.pickle,post late,control,1.6564833672776647
+255,BS_70,BS_70_9_AC.pickle,post late,control,1.3170400543109302
+256,BS_70,BS_70_9_AC.pickle,post late,control,0.8934707903780075
+257,BS_70,BS_70_9_AC.pickle,post late,control,6.0903426791277235
+258,BS_70,BS_70_9_AC.pickle,post late,control,1.041666666666668
+259,BS_70,BS_70_9_AC.pickle,post late,control,10.999160369437451
+260,BS_70,BS_70_9_AC.pickle,post late,control,8.921282798833824
+261,BS_72,BS_72_10_AC.pickle,post late,control,1.2790697674418603
+262,BS_72,BS_72_10_AC.pickle,post late,control,1.214203894616265
+263,BS_72,BS_72_10_AC.pickle,post late,control,13.402061855670107
+264,BS_72,BS_72_10_AC.pickle,post late,control,1.351660939289803
+265,BS_72,BS_72_10_AC.pickle,post late,control,0.726817042606514
+266,BS_72,BS_72_10_AC.pickle,post late,control,0.7331042382588774
+267,BS_72,BS_72_10_AC.pickle,post late,control,2.7949599083619705
+268,BS_72,BS_72_12_AC.pickle,post late,control,2.683615819209039
+269,BS_72,BS_72_12_AC.pickle,post late,control,1.7564870259481034
+270,BS_72,BS_72_13_AC.pickle,post late,control,1.321713870733477
+271,BS_72,BS_72_13_AC.pickle,post late,control,4.671916010498688
+272,BS_72,BS_72_13_AC.pickle,post late,control,7.267759562841531
+273,BS_72,BS_72_13_AC.pickle,post late,control,6.840958605664477
+274,BS_72,BS_72_5_AC.pickle,post late,control,3.1643625192012292
+275,BS_72,BS_72_5_AC.pickle,post late,control,39.34666666666668
+276,BS_72,BS_72_5_AC.pickle,post late,control,0.9663865546218493
+277,BS_72,BS_72_5_AC.pickle,post late,control,24.559999999999995
+278,BS_72,BS_72_5_AC.pickle,post late,control,19.02745098039214
+279,BS_72,BS_72_5_AC.pickle,post late,control,20.210970464135016
+280,BS_72,BS_72_5_AC.pickle,post late,control,1.4879649890590811
+281,BS_72,BS_72_5_AC.pickle,post late,control,35.62666666666672
+282,BS_72,BS_72_5_AC.pickle,post late,control,0.9322033898305085
+283,BS_72,BS_72_5_AC.pickle,post late,control,3.359999999999999
+284,BS_72,BS_72_5_AC.pickle,post late,control,1.1755952380952377
+285,BS_72,BS_72_5_AC.pickle,post late,control,0.4799999999999999
+286,BS_72,BS_72_5_AC.pickle,post late,control,12.133333333333331
+287,BS_72,BS_72_5_AC.pickle,post late,control,0.6666666666666667
+288,BS_72,BS_72_5_AC.pickle,post late,control,5.245098039215683
+289,BS_72,BS_72_6_AC.pickle,post late,control,0.47519217330538105
+290,BS_72,BS_72_6_AC.pickle,post late,control,15.826666666666659
+291,BS_72,BS_72_6_AC.pickle,post late,control,2.866666666666672
+292,BS_72,BS_72_6_AC.pickle,post late,control,2.72
+293,BS_72,BS_72_6_AC.pickle,post late,control,4.483430799220272
+294,BS_72,BS_72_6_AC.pickle,post late,control,3.893333333333338
+295,BS_72,BS_72_6_AC.pickle,post late,control,1.2490241998438727
+296,BS_72,BS_72_6_AC.pickle,post late,control,11.053333333333326
+297,BS_72,BS_72_6_AC.pickle,post late,control,11.373333333333322
+298,BS_72,BS_72_6_AC.pickle,post late,control,7.605409705648372
+299,BS_72,BS_72_6_AC.pickle,post late,control,2.960000000000004
+300,BS_72,BS_72_6_AC.pickle,post late,control,2.692939244663382
+301,BS_72,BS_72_6_AC.pickle,post late,control,8.69333333333334
+302,BS_72,BS_72_6_AC.pickle,post late,control,2.7188081936685298
+303,BS_72,BS_72_6_AC.pickle,post late,control,21.863799283154098
+304,BS_72,BS_72_6_AC.pickle,post late,control,5.613333333333349
+305,BS_72,BS_72_6_AC.pickle,post late,control,2.759999999999996
+306,BS_72,BS_72_6_AC.pickle,post late,control,4.7092198581560245
+307,BS_72,BS_72_6_AC.pickle,post late,control,2.1637426900584784
+308,BS_72,BS_72_6_AC.pickle,post late,control,3.713768115942031
+309,BS_72,BS_72_6_AC.pickle,post late,control,9.069373942470387
+310,BS_72,BS_72_6_AC.pickle,post late,control,2.93453724604966
+311,BS_72,BS_72_6_AC.pickle,post late,control,2.0788530465949817
+312,BS_72,BS_72_7_AC.pickle,post late,control,1.0836277974087158
+313,BS_72,BS_72_7_AC.pickle,post late,control,21.69398907103826
+314,BS_72,BS_72_7_AC.pickle,post late,control,17.723132969034598
+315,BS_72,BS_72_7_AC.pickle,post late,control,5.373406193078319
+316,BS_72,BS_72_7_AC.pickle,post late,control,13.806921675774136
+317,BS_72,BS_72_7_AC.pickle,post late,control,50.692167577413485
+318,BS_72,BS_72_7_AC.pickle,post late,control,12.768670309653915
+319,BS_72,BS_72_7_AC.pickle,post late,control,0.3921568627450982
+320,BS_72,BS_72_8_AC.pickle,post late,control,11.756978653530378
+321,BS_72,BS_72_8_AC.pickle,post late,control,2.5974025974025965
+322,BS_72,BS_72_8_AC.pickle,post late,control,31.724137931034477
+323,BS_72,BS_72_8_AC.pickle,post late,control,5.648604269293927
+324,BS_72,BS_72_8_AC.pickle,post late,control,4.663382594417079
+325,BS_72,BS_72_8_AC.pickle,post late,control,4.926108374384244
+326,BS_72,BS_72_8_AC.pickle,post late,control,8.243021346469627
+327,BS_72,BS_72_8_AC.pickle,post late,control,4.342105263157894
+328,BS_72,BS_72_8_AC.pickle,post late,control,0.4926108374384237
+329,BS_72,BS_72_8_AC.pickle,post late,control,8.467153284671529
+330,BS_72,BS_72_9_AC.pickle,post late,control,0.9302325581395349
+331,BS_72,BS_72_9_AC.pickle,post late,control,10.048309178743963
+332,BS_72,BS_72_9_AC.pickle,post late,control,4.806763285024148
+333,BS_87,BS_87_12_AC.pickle,N/A,control,2.807017543859649
+334,BS_87,BS_87_12_AC.pickle,N/A,control,1.5789473684210522
+335,BS_87,BS_87_12_AC.pickle,N/A,control,1.4912280701754383
+336,BS_87,BS_87_12_AC.pickle,N/A,control,7.456140350877191
+337,BS_87,BS_87_8_AC.pickle,post late,control,2.9571984435797676
+338,BS_87,BS_87_8_AC.pickle,post late,control,0.6560846560846563
+339,BS_87,BS_87_8_AC.pickle,post late,control,9.047619047619044
+340,BS_87,BS_87_8_AC.pickle,post late,control,1.3594040968342638
+341,BS_87,BS_87_8_AC.pickle,post late,control,0.9124767225325885
+342,BS_87,BS_87_8_AC.pickle,post late,control,9.925512104283085
+343,BS_87,BS_87_8_AC.pickle,post late,control,0.6553672316384178
+344,BS_87,BS_87_8_AC.pickle,post late,control,12.450980392156863
+345,BS_87,BS_87_8_AC.pickle,post late,control,12.625698324022354
+346,BS_87,BS_87_9_AC.pickle,post late,control,1.1602209944751387
+347,BS_87,BS_87_9_AC.pickle,post late,control,0.5761316872427984
+348,BS_87,BS_87_9_AC.pickle,post late,control,1.171875000000001
+349,BS_87,BS_87_9_AC.pickle,post late,control,0.7956104252400539
+350,BS_87,BS_87_9_AC.pickle,post late,control,1.1709601873536302
+351,BS_87,BS_87_9_AC.pickle,post late,control,2.386831275720167
+352,BS_87,BS_87_9_AC.pickle,post late,control,1.0090090090090085
+353,BS_87,BS_87_9_AC.pickle,post late,control,0.75445816186557
+354,BS_87,BS_87_9_AC.pickle,post late,control,0.35665294924554153
+355,BS_87,BS_87_9_AC.pickle,post late,control,1.5749235474006134
+356,BS_87,BS_87_9_AC.pickle,post late,control,0.9602194787379965
+357,BS_87,BS_87_9_AC.pickle,post late,control,1.358024691358024
+358,BS_87,BS_87_9_AC.pickle,post late,control,0.8230452674897127
+359,BS_87,BS_87_9_AC.pickle,post late,control,0.5756731662024147
+360,BS_87,BS_87_9_AC.pickle,post late,control,0.5844748858447487
+361,BS_87,BS_87_9_AC.pickle,post late,control,0.6896551724137931
+362,BS_87,BS_87_9_AC.pickle,post late,control,0.8714596949891068
+363,BS_87,BS_87_9_AC.pickle,post late,control,1.430745814307458
+364,BS_87,BS_87_9_AC.pickle,post late,control,13.212121212121213
+365,BS_87,BS_87_9_AC.pickle,post late,control,0.7560137457044674
+366,BS_87,BS_87_9_AC.pickle,post late,control,2.3038156947444226
+367,BS_87,BS_87_9_AC.pickle,post late,control,0.5787037037037044
+368,BS_87,BS_87_9_AC.pickle,post late,control,4.43425076452599
+369,BS_87,BS_87_9_AC.pickle,post late,control,0.2810304449648713
+370,BS_87,BS_87_9_AC.pickle,post late,control,0.4316546762589926
+371,BS_87,BS_87_9_AC.pickle,post late,control,0.9523809523809526
+372,BS_87,BS_87_9_AC.pickle,post late,control,1.221964423820572
+373,BS_87,BS_87_9_AC.pickle,post late,control,1.0678210678210664
+374,AE_312,AE_312_5_opto_control_AC.pickle,post late,control,3.5858585858585856
+375,AE_312,AE_312_5_opto_control_AC.pickle,post late,control,3.333333333333332
+376,AE_312,AE_312_5_opto_control_AC.pickle,post late,control,1.2098765432098764
+377,AE_312,AE_312_5_opto_control_AC.pickle,post late,control,2.1822541966426843
+378,AE_312,AE_312_5_opto_control_AC.pickle,post late,control,21.16306954436453
+379,AE_312,AE_312_5_opto_control_AC.pickle,post late,control,12.182254196642672
+380,AE_312,AE_312_5_opto_control_AC.pickle,post late,control,4.203539823008846
+381,AE_312,AE_312_5_opto_control_AC.pickle,post late,control,4.567901234567902
+382,AE_312,AE_312_5_opto_control_AC.pickle,post late,control,11.606510969568285
+383,AE_312,AE_312_5_opto_control_AC.pickle,post late,control,1.8345323741007191
+384,AE_312,AE_312_5_opto_control_AC.pickle,post late,control,0.5363984674329503
+385,AE_312,AE_312_5_opto_control_AC.pickle,post late,control,1.1630695443645112
+386,AE_312,AE_312_5_opto_control_AC.pickle,post late,control,7.309941520467835
+387,AE_312,AE_312_5_opto_control_AC.pickle,post late,control,2.895622895622895
+388,AE_312,AE_312_5_opto_control_AC.pickle,post late,control,2.260371959942775
+389,AE_312,AE_312_5_opto_control_AC.pickle,post late,control,2.4855491329479764
+390,AE_312,AE_312_5_opto_control_AC.pickle,post late,control,22.208588957055216
+391,AE_312,AE_312_5_opto_control_AC.pickle,post late,control,1.0134600158353124
+392,AE_312,AE_312_5_opto_control_AC.pickle,post late,control,5.359712230215829
+393,AE_312,AE_312_5_opto_control_AC.pickle,post late,control,3.9316239316239305
